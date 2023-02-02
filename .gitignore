@@ -1,0 +1,41 @@
+#.gitignore : 깃 저장소에서 관리하지 않을 폴더나 파일 목록 정의
+# 설정파일을 제외하는 이유 : 컴퓨터의 제원을 사용하기 때문에 유저마다 설정이 다르다. 때문에 병합 충돌이 발생할 수 있다.
+# intelliJ가 예상할 수 있는 모든 설정파일의 경로를 미리 제외한다.
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
