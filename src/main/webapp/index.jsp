@@ -10,9 +10,9 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 
-
-<iframe src="양은주.html"></iframe>
-
+    <div>
+    <iframe src="양은주.html"></iframe>
+    </div>
 
     <div>
     <iframe src="손승호.html"></iframe>
