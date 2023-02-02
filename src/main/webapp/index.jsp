@@ -9,5 +9,8 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+    <div>
+        <iframe src="mej.html"></iframe>
+    </div>
 </body>
 </html>
