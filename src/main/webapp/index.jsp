@@ -22,5 +22,8 @@
         <iframe src="양은주.html"></iframe>
     </div>
 
+    <div>
+        <iframe src="손승호.html"></iframe>
+    </div>
 </body>
 </html>
