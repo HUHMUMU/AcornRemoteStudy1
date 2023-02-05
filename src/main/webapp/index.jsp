@@ -11,29 +11,22 @@
     <div>
         <iframe src="문은정.html"></iframe>
     </div>
-g
+
+    <div>
+        <iframe src="최경민.html"></iframe>
+    </div>
+
+
     <div>
         <iframe src="최경민.html"></iframe>
     </div>
 
     <div>
-        <iframe src="mej.html"></iframe>
+        <iframe src="양은주.html"></iframe>
     </div>
 
     <div>
-    <iframe src="양은주.html"></iframe>
-    </div>
-
-    <div>
-    <iframe src="손승호.html"></iframe>
-    </div>
-
-    <div>
-        <iframe src="hwj.html"></iframe>
-    </div>
-
-    <div>
-        <iframe src="최경민.html"></iframe>
+        <iframe src="손승호.html"></iframe>
     </div>
 
 </body>
