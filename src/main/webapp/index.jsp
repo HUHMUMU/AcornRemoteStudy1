@@ -9,7 +9,7 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
     <div>
-        <iframe src="mej.html"></iframe>
+        <iframe src="문은정.html"></iframe>
     </div>
 g
     <div>

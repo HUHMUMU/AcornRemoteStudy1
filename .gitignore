@@ -1,5 +1,9 @@
 #.gitignore : 깃 저장소에서 관리하지 않을 폴더나 파일 목록 정의
 # 설정파일을 제외하는 이유 : 컴퓨터의 제원을 사용하기 때문에 유저마다 설정이 다르다. 때문에 병합 충돌이 발생할 수 있다.
+# 동홍 javac c:\\user\동홍\.m2\servet
+# 현주 javac c:\\user\현주\profile\java\jdk-17.04
+# 경민 javac /user/경민/m.2/servet  => 병합충돌!
+# 작업프로그램이 다를 수도 있다. - 인텔리j, 이클립스, visual studio  등..
 # intelliJ가 예상할 수 있는 모든 설정파일의 경로를 미리 제외한다.
 target/
 !.mvn/wrapper/maven-wrapper.jar
